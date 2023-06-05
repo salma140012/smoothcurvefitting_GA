@@ -1,0 +1,795 @@
+******************
+Data Set Index : 1
+******************
+******************
+****************** First Generation ******************
+Coefficents array num 1 : [6.73, 6.86, -8.19, 6.85]
+its mean square error: 294745.12
+******************
+Coefficents array num 2 : [0.57, 4.68, -2.94, -4.78]
+its mean square error: 246493.67
+******************
+Coefficents array num 3 : [5.98, 1.89, -1.16, 4.66]
+its mean square error: 192802.95
+******************
+Coefficents array num 4 : [-9.9, -1.91, 3.65, 7.8]
+its mean square error: 645978.9
+******************
+Coefficents array num 5 : [8.33, 2.84, -5.63, -0.11]
+its mean square error: 9123.658
+******************
+Coefficents array num 6 : [-5.11, 2.36, -8.54, -0.65]
+its mean square error: 44352.92
+******************
+Coefficents array num 7 : [-1.03, 4.63, 9.53, 8.38]
+its mean square error: 984203.3
+******************
+Coefficents array num 8 : [-3.78, 5.61, -2.69, -5.51]
+its mean square error: 316027.38
+******************
+Coefficents array num 9 : [3.29, 0.4, 4.22, 1.71]
+its mean square error: 59418.387
+******************
+Coefficents array num 10 : [-4.31, 4.04, -2.73, 9.17]
+its mean square error: 716329.0
+******************
+****************** Generation 2 ******************
+Coefficents array num 1 : [6.73, 6.86, -8.19, 6.85]
+its mean square error: 294745.12
+******************
+Coefficents array num 2 : [6.73, 6.86, -8.19, 6.85]
+its mean square error: 294745.12
+******************
+Coefficents array num 3 : [3.29, 0.4, 4.22, 1.71]
+its mean square error: 59418.387
+******************
+Coefficents array num 4 : [3.29, 0.4, 4.22, 1.71]
+its mean square error: 59418.387
+******************
+Coefficents array num 5 : [-5.11, 2.36, -8.54, 0.080782115]
+its mean square error: 19856.676
+******************
+Coefficents array num 6 : [-5.11, 2.36, -8.54, 0.080782115]
+its mean square error: 19856.676
+******************
+Coefficents array num 7 : [8.33, 2.84, -5.63, -0.11]
+its mean square error: 9123.658
+******************
+Coefficents array num 8 : [8.33, 2.84, -5.63, -0.11]
+its mean square error: 9123.658
+******************
+Coefficents array num 9 : [8.33, 9.438203, -5.63, -0.11]
+its mean square error: 5375.5884
+******************
+Coefficents array num 10 : [8.33, 2.84, -5.63, 0.9123986]
+its mean square error: 95.764755
+******************
+****************** Generation 3 ******************
+Coefficents array num 1 : [8.33, 2.84, -5.63, -0.11]
+its mean square error: 9123.658
+******************
+Coefficents array num 2 : [8.33, 2.84, -5.63, -0.11]
+its mean square error: 9123.658
+******************
+Coefficents array num 3 : [8.33, 2.84, -5.63, -0.11]
+its mean square error: 9123.658
+******************
+Coefficents array num 4 : [8.33, 9.438203, -5.63, -0.11]
+its mean square error: 5375.5884
+******************
+Coefficents array num 5 : [8.33, 9.438203, -5.63, -0.11]
+its mean square error: 5375.5884
+******************
+Coefficents array num 6 : [8.33, 9.438203, -5.63, -0.11]
+its mean square error: 5375.5884
+******************
+Coefficents array num 7 : [8.33, -9.0877905, -5.63, 0.9123986]
+its mean square error: 1950.4247
+******************
+Coefficents array num 8 : [6.197927, 2.84, -5.63, 0.9123986]
+its mean square error: 99.763306
+******************
+Coefficents array num 9 : [8.33, 2.84, -5.63, 0.9123986]
+its mean square error: 95.764755
+******************
+Coefficents array num 10 : [8.33, 2.84, -5.63, 0.9123986]
+its mean square error: 95.764755
+******************
+****************** Generation 4 ******************
+Coefficents array num 1 : [8.33, -9.0877905, -5.63, 0.9123986]
+its mean square error: 1950.4247
+******************
+Coefficents array num 2 : [8.33, -9.0877905, -5.63, 0.9123986]
+its mean square error: 1950.4247
+******************
+Coefficents array num 3 : [8.33, -9.0877905, -5.63, 0.9123986]
+its mean square error: 1950.4247
+******************
+Coefficents array num 4 : [8.33, 7.3953686, -5.63, 0.9123986]
+its mean square error: 388.73077
+******************
+Coefficents array num 5 : [8.33, 7.3953686, -5.63, 0.9123986]
+its mean square error: 388.73077
+******************
+Coefficents array num 6 : [8.33, 7.3953686, -5.63, 0.9123986]
+its mean square error: 388.73077
+******************
+Coefficents array num 7 : [8.33, 7.3953686, -5.63, 0.9123986]
+its mean square error: 388.73077
+******************
+Coefficents array num 8 : [6.197927, 2.84, -5.63, 0.9123986]
+its mean square error: 99.763306
+******************
+Coefficents array num 9 : [8.33, 2.84, -5.63, 0.9123986]
+its mean square error: 95.764755
+******************
+Coefficents array num 10 : [8.33, 2.84, -5.63, 0.9123986]
+its mean square error: 95.764755
+******************
+****************** Generation 5 ******************
+Coefficents array num 1 : [6.197927, 2.84, -5.63, 0.9123986]
+its mean square error: 99.763306
+******************
+Coefficents array num 2 : [6.197927, 2.84, -5.63, 0.9123986]
+its mean square error: 99.763306
+******************
+Coefficents array num 3 : [6.197927, 2.84, -5.63, 0.9123986]
+its mean square error: 99.763306
+******************
+Coefficents array num 4 : [8.33, 2.84, -5.63, 0.9123986]
+its mean square error: 95.764755
+******************
+Coefficents array num 5 : [8.33, 2.84, -5.63, 0.9123986]
+its mean square error: 95.764755
+******************
+Coefficents array num 6 : [8.33, 2.84, -5.63, 0.9123986]
+its mean square error: 95.764755
+******************
+Coefficents array num 7 : [8.33, 2.84, -5.63, 0.9123986]
+its mean square error: 95.764755
+******************
+Coefficents array num 8 : [8.33, 2.84, -5.63, 0.9123986]
+its mean square error: 95.764755
+******************
+Coefficents array num 9 : [8.33, 2.84, -5.63, 0.9123986]
+its mean square error: 95.764755
+******************
+Coefficents array num 10 : [8.33, 2.84, -5.63, 0.9123986]
+its mean square error: 95.764755
+******************
+******************
+Data Set Index : 2
+******************
+******************
+****************** First Generation ******************
+Coefficents array num 1 : [-9.91, 8.2, -9.07, 5.82, 4.86, 2.39]
+its mean square error: 1.08926544E8
+******************
+Coefficents array num 2 : [-7.8, -2.04, 5.64, 4.2, 1.91, -0.59]
+its mean square error: 154614.94
+******************
+Coefficents array num 3 : [-2.78, 7.22, 7.67, 2.41, 1.17, -0.48]
+its mean square error: 266719.94
+******************
+Coefficents array num 4 : [6.56, -1.49, -4.33, 6.14, -1.38, 8.27]
+its mean square error: 6.4475277E8
+******************
+Coefficents array num 5 : [-6.19, 3.39, -7.93, -3.43, 1.64, -9.54]
+its mean square error: 8.4863955E8
+******************
+Coefficents array num 6 : [-9.11, 4.33, -7.0, -7.46, -1.04, 6.96]
+its mean square error: 4.08153952E8
+******************
+Coefficents array num 7 : [8.34, -7.33, -0.31, 6.67, -7.77, -0.42]
+its mean square error: 2.3792812E7
+******************
+Coefficents array num 8 : [-3.79, 7.22, 7.67, -4.85, 5.06, 1.13]
+its mean square error: 3.498708E7
+******************
+Coefficents array num 9 : [2.71, 5.33, -9.71, -4.99, -2.07, 7.03]
+its mean square error: 4.0253824E8
+******************
+Coefficents array num 10 : [-2.67, 5.37, -4.93, -5.48, -9.68, -0.34]
+its mean square error: 4.713554E7
+******************
+****************** Generation 2 ******************
+Coefficents array num 1 : [-3.79, 7.22, 7.67, -4.85, 5.06, 1.13]
+its mean square error: 3.498708E7
+******************
+Coefficents array num 2 : [8.34, -7.33, -0.31, 6.67, -7.77, -0.42]
+its mean square error: 2.3792812E7
+******************
+Coefficents array num 3 : [-2.67, 5.37, 7.67, 2.41, -3.1622458, -0.34]
+its mean square error: 5681442.5
+******************
+Coefficents array num 4 : [-7.8, -2.04, -1.0320473, -2.7926373, 1.91, -0.59]
+its mean square error: 1195195.5
+******************
+Coefficents array num 5 : [-2.78, 7.22, 7.67, 2.41, 1.17, -0.48]
+its mean square error: 266719.94
+******************
+Coefficents array num 6 : [-2.67, -0.24016333, 5.64, 4.2, 1.91, -0.34]
+its mean square error: 262216.12
+******************
+Coefficents array num 7 : [-7.8, -2.04, 5.64, 4.2, 1.91, -0.59]
+its mean square error: 154614.94
+******************
+Coefficents array num 8 : [-7.8, -2.04, 5.64, 4.2, 1.91, -0.59]
+its mean square error: 154614.94
+******************
+Coefficents array num 9 : [8.34, -7.33, 5.64, 4.2, 1.91, -0.42]
+its mean square error: 86852.81
+******************
+Coefficents array num 10 : [6.551811, 5.37, 7.67, 2.41, 1.17, -0.34]
+its mean square error: 34899.56
+******************
+****************** Generation 3 ******************
+Coefficents array num 1 : [-7.8, -2.04, 5.64, 4.2, 1.91, -0.59]
+its mean square error: 154614.94
+******************
+Coefficents array num 2 : [-7.8, -2.04, 5.64, 4.2, 1.91, -0.59]
+its mean square error: 154614.94
+******************
+Coefficents array num 3 : [8.34, -7.33, 5.64, 4.2, 1.91, -0.42]
+its mean square error: 86852.81
+******************
+Coefficents array num 4 : [8.34, -7.33, 5.64, 4.2, 1.91, -0.42]
+its mean square error: 86852.81
+******************
+Coefficents array num 5 : [8.34, -7.33, 5.64, 4.2, 1.91, -0.42]
+its mean square error: 86852.81
+******************
+Coefficents array num 6 : [-7.8, -2.04, 5.64, 6.67, 1.91, -0.59]
+its mean square error: 84074.16
+******************
+Coefficents array num 7 : [6.551811, 9.391146, 7.67, 4.2, 1.17, -0.34]
+its mean square error: 67547.734
+******************
+Coefficents array num 8 : [6.551811, 5.37, 7.67, 4.2, 1.17, -0.34]
+its mean square error: 61108.78
+******************
+Coefficents array num 9 : [6.551811, 5.37, 7.67, 2.41, 1.17, -0.34]
+its mean square error: 34899.56
+******************
+Coefficents array num 10 : [8.34, -7.33, 5.64, 2.41, 1.91, -0.42]
+its mean square error: 34007.12
+******************
+****************** Generation 4 ******************
+Coefficents array num 1 : [8.34, -7.33, 5.64, 4.2, 1.91, -0.42]
+its mean square error: 86852.81
+******************
+Coefficents array num 2 : [6.551811, 9.391146, 7.67, 4.2, 1.17, -0.34]
+its mean square error: 67547.734
+******************
+Coefficents array num 3 : [6.551811, 9.391146, 7.67, 4.2, 1.17, -0.34]
+its mean square error: 67547.734
+******************
+Coefficents array num 4 : [6.551811, 5.37, 7.67, 4.2, 1.17, -0.34]
+its mean square error: 61108.78
+******************
+Coefficents array num 5 : [6.551811, 5.37, 7.67, 4.2, 1.17, -0.34]
+its mean square error: 61108.78
+******************
+Coefficents array num 6 : [6.551811, 5.37, 7.67, 2.41, 1.17, -0.34]
+its mean square error: 34899.56
+******************
+Coefficents array num 7 : [9.507704, -7.33, 5.64, 2.41, 1.91, -0.42]
+its mean square error: 34271.832
+******************
+Coefficents array num 8 : [9.507704, -7.33, 5.64, 2.41, 1.91, -0.42]
+its mean square error: 34271.832
+******************
+Coefficents array num 9 : [8.34, -7.33, 5.64, 2.41, 1.91, -0.42]
+its mean square error: 34007.12
+******************
+Coefficents array num 10 : [8.34, -7.33, 5.64, 2.41, 1.91, -0.42]
+its mean square error: 34007.12
+******************
+****************** Generation 5 ******************
+Coefficents array num 1 : [6.551811, 5.37, 7.67, 2.41, 1.17, -0.34]
+its mean square error: 34899.56
+******************
+Coefficents array num 2 : [9.507704, -7.33, 5.64, 2.41, 1.91, -0.42]
+its mean square error: 34271.832
+******************
+Coefficents array num 3 : [9.507704, -7.33, 5.64, 2.41, 1.91, -0.42]
+its mean square error: 34271.832
+******************
+Coefficents array num 4 : [9.507704, -7.33, 5.64, 2.41, 1.91, -0.42]
+its mean square error: 34271.832
+******************
+Coefficents array num 5 : [9.507704, -7.33, 5.64, 2.41, 1.91, -0.42]
+its mean square error: 34271.832
+******************
+Coefficents array num 6 : [8.34, -7.33, 5.64, 2.41, 1.91, -0.42]
+its mean square error: 34007.12
+******************
+Coefficents array num 7 : [8.34, -7.33, 5.64, 2.41, 1.91, -0.42]
+its mean square error: 34007.12
+******************
+Coefficents array num 8 : [8.34, -7.33, 5.64, 2.41, 1.91, -0.42]
+its mean square error: 34007.12
+******************
+Coefficents array num 9 : [8.34, -7.33, 5.64, 2.41, 1.91, -0.42]
+its mean square error: 34007.12
+******************
+Coefficents array num 10 : [-9.926559, -7.33, 5.64, 2.41, 1.91, -0.42]
+its mean square error: 30221.248
+******************
+******************
+Data Set Index : 3
+******************
+******************
+****************** First Generation ******************
+Coefficents array num 1 : [0.3, 4.25, -9.44, -9.82, -1.63, 6.89, -4.3]
+its mean square error: 3.41786419E9
+******************
+Coefficents array num 2 : [6.1, 4.47, 2.84, 4.64, 4.9, 1.26, 8.06]
+its mean square error: 2.33626317E10
+******************
+Coefficents array num 3 : [6.57, -5.66, -5.85, -9.98, 8.41, -7.17, 6.23]
+its mean square error: 8.8459131E9
+******************
+Coefficents array num 4 : [-1.83, -2.3, 8.23, -5.54, -5.52, -1.83, 9.57]
+its mean square error: 2.69718999E10
+******************
+Coefficents array num 5 : [2.62, 9.75, 8.82, -7.82, 4.08, 9.56, 4.45]
+its mean square error: 1.24786862E10
+******************
+Coefficents array num 6 : [-8.41, 5.45, -7.5, 0.26, 0.85, 7.14, 2.55]
+its mean square error: 4.7046062E9
+******************
+Coefficents array num 7 : [3.47, -3.24, 7.71, 3.78, -6.14, 4.62, 6.33]
+its mean square error: 1.58842737E10
+******************
+Coefficents array num 8 : [5.84, -5.56, -0.32, 8.38, -6.65, 3.97, -2.76]
+its mean square error: 1.6377751E9
+******************
+Coefficents array num 9 : [1.49, 6.44, 8.3, -7.44, -2.82, -5.93, -7.06]
+its mean square error: 2.1940095E10
+******************
+Coefficents array num 10 : [-4.71, -3.44, 1.73, -6.4, -7.3, 3.4, 9.69]
+its mean square error: 3.29124147E10
+******************
+****************** Generation 2 ******************
+Coefficents array num 1 : [-8.41, 5.45, -7.5, 0.26, 0.85, 7.14, 2.55]
+its mean square error: 4.7046062E9
+******************
+Coefficents array num 2 : [5.84, -5.56, -0.32, -9.98, 8.41, -7.17, -2.76]
+its mean square error: 4.7028116E9
+******************
+Coefficents array num 3 : [0.3, 4.25, -9.44, -9.82, -1.63, 6.89, -4.3]
+its mean square error: 3.41786419E9
+******************
+Coefficents array num 4 : [0.3, 4.25, -9.44, -9.82, -1.63, 6.89, -4.3]
+its mean square error: 3.41786419E9
+******************
+Coefficents array num 5 : [5.84, -6.8886437, -0.32, 8.38, -6.65, 3.97, -2.76]
+its mean square error: 1.63807859E9
+******************
+Coefficents array num 6 : [5.84, -5.9328127, -0.32, 8.38, -6.65, 3.97, -2.76]
+its mean square error: 1.63786022E9
+******************
+Coefficents array num 7 : [5.84, -5.56, -0.32, 8.38, -6.65, 3.97, -2.76]
+its mean square error: 1.6377751E9
+******************
+Coefficents array num 8 : [5.84, -5.56, -0.32, 8.38, -6.65, 3.97, -2.76]
+its mean square error: 1.6377751E9
+******************
+Coefficents array num 9 : [5.84, -5.56, -0.32, 8.38, 7.286445, 3.97, -2.76]
+its mean square error: 1.0974345E9
+******************
+Coefficents array num 10 : [5.84, -5.56, -0.32, -7.82, 4.08, 9.56, -2.76]
+its mean square error: 3.67820352E8
+******************
+****************** Generation 3 ******************
+Coefficents array num 1 : [5.84, -5.56, -0.32, 8.38, -6.65, 3.97, -2.76]
+its mean square error: 1.6377751E9
+******************
+Coefficents array num 2 : [5.84, -5.56, -0.32, -9.82, -1.63, 3.97, -2.76]
+its mean square error: 1.5585705E9
+******************
+Coefficents array num 3 : [5.84, -5.56, 5.918835, -6.2251596, 7.286445, 3.97, -2.76]
+its mean square error: 1.17984435E9
+******************
+Coefficents array num 4 : [5.84, -5.9328127, -0.32, -7.82, 8.059469, 3.97, -2.76]
+its mean square error: 1.16869158E9
+******************
+Coefficents array num 5 : [5.84, -5.56, -0.32, 8.38, 7.286445, 3.97, -2.76]
+its mean square error: 1.0974345E9
+******************
+Coefficents array num 6 : [5.84, -5.56, -0.32, 8.38, 7.286445, 3.97, -2.76]
+its mean square error: 1.0974345E9
+******************
+Coefficents array num 7 : [5.84, -5.56, -0.32, 8.38, -6.65, 9.56, -2.76]
+its mean square error: 5.4248896E8
+******************
+Coefficents array num 8 : [5.84, -5.56, -4.3030972, -7.82, 4.08, 9.56, -2.76]
+its mean square error: 3.7010592E8
+******************
+Coefficents array num 9 : [5.84, -5.56, -0.32, -7.82, 4.08, 9.56, -2.76]
+its mean square error: 3.67820352E8
+******************
+Coefficents array num 10 : [5.84, -5.56, 9.861622, -7.82, 4.08, 9.56, -2.76]
+its mean square error: 3.62024448E8
+******************
+****************** Generation 4 ******************
+Coefficents array num 1 : [5.84, -5.56, -4.3030972, -7.82, -6.65, 9.56, -2.76]
+its mean square error: 6.1526413E8
+******************
+Coefficents array num 2 : [5.84, -5.56, -0.32, 8.38, -6.65, 9.56, -2.76]
+its mean square error: 5.4248896E8
+******************
+Coefficents array num 3 : [5.84, -5.56, -0.32, 8.38, -6.65, 9.56, -2.76]
+its mean square error: 5.4248896E8
+******************
+Coefficents array num 4 : [5.84, -5.56, -0.32, -7.82, 4.08, 9.56, -2.76]
+its mean square error: 3.67820352E8
+******************
+Coefficents array num 5 : [5.84, -5.56, -0.32, -7.82, 4.08, 9.56, -2.76]
+its mean square error: 3.67820352E8
+******************
+Coefficents array num 6 : [5.84, -5.56, -4.3030972, 5.4694333, 4.08, 9.56, -2.76]
+its mean square error: 3.27108736E8
+******************
+Coefficents array num 7 : [5.84, -5.56, -4.3030972, 5.4694333, 4.08, 9.56, -2.76]
+its mean square error: 3.27108736E8
+******************
+Coefficents array num 8 : [5.84, -5.56, -4.3030972, 5.4694333, 4.08, 9.56, -2.76]
+its mean square error: 3.27108736E8
+******************
+Coefficents array num 9 : [5.84, -5.56, -4.3030972, 5.4694333, 4.08, 9.56, -2.76]
+its mean square error: 3.27108736E8
+******************
+Coefficents array num 10 : [5.84, -6.7885256, -0.32, 8.38, 4.08, 9.56, -2.76]
+its mean square error: 3.16172576E8
+******************
+****************** Generation 5 ******************
+Coefficents array num 1 : [5.84, -5.56, -4.3030972, 5.4694333, 4.08, 9.56, -2.76]
+its mean square error: 3.27108736E8
+******************
+Coefficents array num 2 : [5.84, -6.7885256, -0.32, 8.38, 4.08, 9.56, -2.76]
+its mean square error: 3.16172576E8
+******************
+Coefficents array num 3 : [5.84, -6.7885256, -0.32, 8.38, 4.08, 9.56, -2.76]
+its mean square error: 3.16172576E8
+******************
+Coefficents array num 4 : [5.84, -8.653826, -4.3030972, 5.4694333, 4.08, 9.772047, -2.76]
+its mean square error: 3.04769824E8
+******************
+Coefficents array num 5 : [5.84, -8.653826, -4.3030972, 5.4694333, 4.08, 9.772047, -2.76]
+its mean square error: 3.04769824E8
+******************
+Coefficents array num 6 : [5.84, -8.653826, -4.3030972, 5.4694333, 4.08, 9.772047, -2.76]
+its mean square error: 3.04769824E8
+******************
+Coefficents array num 7 : [5.84, -8.653826, -4.3030972, 5.4694333, 4.08, 9.772047, -2.76]
+its mean square error: 3.04769824E8
+******************
+Coefficents array num 8 : [5.84, -8.653826, -4.3030972, 5.4694333, 4.08, 9.772047, -2.76]
+its mean square error: 3.04769824E8
+******************
+Coefficents array num 9 : [5.84, -8.653826, -4.3030972, 5.4694333, 4.08, 9.772047, -2.76]
+its mean square error: 3.04769824E8
+******************
+Coefficents array num 10 : [5.84, -6.7885256, -0.32, 8.38, 8.99897, 9.56, -2.76]
+its mean square error: 2.347688E8
+******************
+******************
+Data Set Index : 4
+******************
+******************
+****************** First Generation ******************
+Coefficents array num 1 : [-4.08, 7.06, -3.73, -5.86, 4.35]
+its mean square error: 3044304.2
+******************
+Coefficents array num 2 : [5.98, -8.9, 3.4, -1.0, 7.11]
+its mean square error: 1.4253646E7
+******************
+Coefficents array num 3 : [6.05, 4.01, 5.8, 0.8, -3.65]
+its mean square error: 3159884.2
+******************
+Coefficents array num 4 : [-8.27, 9.04, -3.29, 9.43, -7.5]
+its mean square error: 1.0114036E7
+******************
+Coefficents array num 5 : [8.44, -1.38, 7.79, -9.68, 4.03]
+its mean square error: 1921389.4
+******************
+Coefficents array num 6 : [9.86, -6.49, -3.14, -4.94, -3.0]
+its mean square error: 4671281.5
+******************
+Coefficents array num 7 : [-4.44, 2.07, 7.26, -8.4, 7.49]
+its mean square error: 1.1345804E7
+******************
+Coefficents array num 8 : [3.23, 5.49, -3.42, 5.56, -4.37]
+its mean square error: 3485593.8
+******************
+Coefficents array num 9 : [3.49, 6.51, 8.4, 9.64, -2.4]
+its mean square error: 72035.36
+******************
+Coefficents array num 10 : [-1.55, 5.5, -2.07, 2.95, -1.95]
+its mean square error: 623979.2
+******************
+****************** Generation 2 ******************
+Coefficents array num 1 : [3.49, 5.49, 8.4, 9.64, -4.707676]
+its mean square error: 2144487.8
+******************
+Coefficents array num 2 : [8.44, -1.38, 7.79, -9.68, 4.03]
+its mean square error: 1921389.4
+******************
+Coefficents array num 3 : [8.44, -1.38, 7.79, -9.68, 4.03]
+its mean square error: 1921389.4
+******************
+Coefficents array num 4 : [5.5600414, -6.49, -2.07, 2.95, -1.95]
+its mean square error: 677441.4
+******************
+Coefficents array num 5 : [-1.55, 5.5, -2.07, 2.95, -1.95]
+its mean square error: 623979.2
+******************
+Coefficents array num 6 : [-1.55, 5.5, -2.07, 2.95, -1.95]
+its mean square error: 623979.2
+******************
+Coefficents array num 7 : [-1.55, 5.5, -2.07, 2.95, -1.95]
+its mean square error: 623979.2
+******************
+Coefficents array num 8 : [3.49, 4.483659, 8.4, 9.64, -2.4]
+its mean square error: 73526.9
+******************
+Coefficents array num 9 : [3.49, 4.483659, 8.4, 9.64, -2.4]
+its mean square error: 73526.9
+******************
+Coefficents array num 10 : [-6.9323683, 5.49, 8.4, 9.64, -2.4]
+its mean square error: 73490.04
+******************
+****************** Generation 3 ******************
+Coefficents array num 1 : [-1.55, 5.5, -2.07, 2.95, -1.95]
+its mean square error: 623979.2
+******************
+Coefficents array num 2 : [-1.55, 5.5, -2.07, 2.95, -1.95]
+its mean square error: 623979.2
+******************
+Coefficents array num 3 : [3.49, 5.5, -2.07, 2.95, -1.95]
+its mean square error: 619433.2
+******************
+Coefficents array num 4 : [3.49, 5.5, -2.07, 2.95, -1.95]
+its mean square error: 619433.2
+******************
+Coefficents array num 5 : [5.5600414, 5.694115, -2.07, 2.95, -1.95]
+its mean square error: 616643.0
+******************
+Coefficents array num 6 : [-9.582524, 4.483659, 8.4, 9.64, -2.4]
+its mean square error: 74544.47
+******************
+Coefficents array num 7 : [-1.55, 4.483659, 8.4, 9.64, -2.4]
+its mean square error: 73878.734
+******************
+Coefficents array num 8 : [3.49, 4.483659, 8.4, 9.64, -2.4]
+its mean square error: 73526.9
+******************
+Coefficents array num 9 : [3.49, 4.483659, 8.4, 9.64, -2.4]
+its mean square error: 73526.9
+******************
+Coefficents array num 10 : [-6.9323683, 5.49, 8.4, 9.64, -2.4]
+its mean square error: 73490.04
+******************
+****************** Generation 4 ******************
+Coefficents array num 1 : [-1.55, 4.483659, 8.4, 9.64, -2.4]
+its mean square error: 73878.734
+******************
+Coefficents array num 2 : [3.49, 4.483659, 8.4, 9.64, -2.4]
+its mean square error: 73526.9
+******************
+Coefficents array num 3 : [3.49, 4.483659, 8.4, 9.64, -2.4]
+its mean square error: 73526.9
+******************
+Coefficents array num 4 : [-6.9323683, 5.49, 8.4, 9.64, -2.4]
+its mean square error: 73490.04
+******************
+Coefficents array num 5 : [-6.9323683, 5.49, 8.4, 9.64, -2.4]
+its mean square error: 73490.04
+******************
+Coefficents array num 6 : [3.49, 5.6804123, 8.4, 9.64, -2.4]
+its mean square error: 72632.76
+******************
+Coefficents array num 7 : [3.49, 5.6804123, 8.4, 9.64, -2.4]
+its mean square error: 72632.76
+******************
+Coefficents array num 8 : [3.49, 5.6804123, 8.4, 9.64, -2.4]
+its mean square error: 72632.76
+******************
+Coefficents array num 9 : [3.49, 5.6804123, 8.4, 9.64, -2.4]
+its mean square error: 72632.76
+******************
+Coefficents array num 10 : [3.49, 5.6804123, 8.4, 9.64, -2.4]
+its mean square error: 72632.76
+******************
+****************** Generation 5 ******************
+Coefficents array num 1 : [3.49, 5.6804123, 8.4, 9.756315, -2.4]
+its mean square error: 68596.65
+******************
+Coefficents array num 2 : [3.49, 5.6804123, 8.4, 9.756315, -2.4]
+its mean square error: 68596.65
+******************
+Coefficents array num 3 : [3.49, 5.6804123, 8.4, 9.756315, -2.4]
+its mean square error: 68596.65
+******************
+Coefficents array num 4 : [3.49, 5.6804123, 8.4, 9.756315, -2.4]
+its mean square error: 68596.65
+******************
+Coefficents array num 5 : [3.49, 5.6804123, 8.4, 9.756315, -2.4]
+its mean square error: 68596.65
+******************
+Coefficents array num 6 : [3.49, 5.6804123, 8.4, 9.756315, -2.4]
+its mean square error: 68596.65
+******************
+Coefficents array num 7 : [3.49, 5.6804123, 8.4, 9.756315, -2.4]
+its mean square error: 68596.65
+******************
+Coefficents array num 8 : [3.49, 5.6804123, 8.4, 9.756315, -2.4]
+its mean square error: 68596.65
+******************
+Coefficents array num 9 : [3.49, 5.6804123, 8.4, 9.803261, -2.4]
+its mean square error: 67038.85
+******************
+Coefficents array num 10 : [3.49, 5.6804123, 9.61808, 9.64, -2.4]
+its mean square error: 66490.91
+******************
+******************
+Data Set Index : 5
+******************
+******************
+****************** First Generation ******************
+Coefficents array num 1 : [3.21, 6.48, -0.94, -6.6, -3.08, 6.61, 8.81, -4.49, 5.97, -4.93, 4.91]
+its mean square error: 9.6333819E15
+******************
+Coefficents array num 2 : [4.94, -2.62, 3.27, 9.21, -7.78, -6.73, 4.89, 1.55, 9.99, -0.47, -2.4]
+its mean square error: 2.57312242E15
+******************
+Coefficents array num 3 : [-4.8, 2.86, -2.76, 4.01, -3.1, 6.44, -4.49, -7.39, 5.31, 0.05, -2.22]
+its mean square error: 2.36272835E15
+******************
+Coefficents array num 4 : [9.78, -4.69, -7.26, 4.21, 3.16, 0.53, 1.43, -0.23, -3.45, 2.26, -6.02]
+its mean square error: 1.76149236E16
+******************
+Coefficents array num 5 : [8.96, 5.44, -5.86, -1.02, 8.25, 9.73, 7.4, 3.99, -0.64, 5.99, 4.36]
+its mean square error: 1.53498266E16
+******************
+Coefficents array num 6 : [3.67, 1.76, 6.83, 8.93, 6.09, 4.16, -5.59, 6.17, -8.82, -8.46, 0.44]
+its mean square error: 7.4474545E14
+******************
+Coefficents array num 7 : [8.53, -6.54, -3.15, -0.91, -7.62, -3.25, 8.13, -3.64, 2.81, 6.32, 5.32]
+its mean square error: 2.21122526E16
+******************
+Coefficents array num 8 : [-3.83, 8.6, -5.2, -1.2, -0.66, -0.39, -3.98, 0.54, 0.3, -8.6, -2.19]
+its mean square error: 6.9494525E15
+******************
+Coefficents array num 9 : [-0.8, -9.03, 1.84, -6.96, 1.85, 4.81, -1.9, -8.38, -5.78, -3.91, -3.99]
+its mean square error: 1.24942123E16
+******************
+Coefficents array num 10 : [7.34, -9.12, -7.56, 5.93, 0.32, -6.97, 9.43, 3.67, 8.45, -2.16, -0.12]
+its mean square error: 2.65159369E13
+******************
+****************** Generation 2 ******************
+Coefficents array num 1 : [7.34, -9.12, -7.56, 5.93, 0.32, -6.97, 9.43, 3.67, 8.45, -2.16, -2.153144]
+its mean square error: 2.71955933E15
+******************
+Coefficents array num 2 : [4.94, -2.62, 3.27, 9.21, -7.78, -6.73, 4.89, 1.55, 9.99, -0.47, -2.4]
+its mean square error: 2.57312242E15
+******************
+Coefficents array num 3 : [-4.8, 2.86, -2.76, 4.01, -3.1, 6.44, -4.49, -7.39, 5.31, 0.05, -2.22]
+its mean square error: 2.36272835E15
+******************
+Coefficents array num 4 : [3.67, 1.76, 6.83, 8.93, 6.09, -4.213296, -7.5949044, 6.17, 2.038931, -8.46, 2.6552815]
+its mean square error: 9.5280071E14
+******************
+Coefficents array num 5 : [3.67, 1.76, 6.83, 8.93, 6.09, -4.213296, -7.5949044, 6.17, 2.038931, -8.46, 2.6552815]
+its mean square error: 9.5280071E14
+******************
+Coefficents array num 6 : [3.67, 1.76, 6.83, 8.93, 6.09, -4.213296, -7.5949044, 6.17, 2.038931, -8.46, 2.6552815]
+its mean square error: 9.5280071E14
+******************
+Coefficents array num 7 : [3.67, 1.76, 6.83, 8.93, 6.09, -4.213296, -7.5949044, 6.17, 2.038931, -8.46, 2.6552815]
+its mean square error: 9.5280071E14
+******************
+Coefficents array num 8 : [3.67, 1.76, 6.83, 8.93, 6.09, -4.213296, -7.5949044, 6.17, 2.038931, -8.46, 2.6552815]
+its mean square error: 9.5280071E14
+******************
+Coefficents array num 9 : [3.67, 1.76, 6.83, 8.93, 6.09, 4.16, -5.59, 6.17, -8.82, -8.46, 0.44]
+its mean square error: 7.4474545E14
+******************
+Coefficents array num 10 : [3.67, 1.76, 6.83, 8.93, 6.09, 4.16, -5.59, 6.17, -8.82, -8.46, 0.44]
+its mean square error: 7.4474545E14
+******************
+****************** Generation 3 ******************
+Coefficents array num 1 : [3.67, 1.76, 6.83, 8.93, 6.09, -4.213296, -7.5949044, 6.351754, 2.038931, -8.46, 2.6552815]
+its mean square error: 9.5397431E14
+******************
+Coefficents array num 2 : [3.67, 1.76, 6.83, 8.93, 6.09, -4.213296, -7.5949044, 6.351754, 2.038931, -8.46, 2.6552815]
+its mean square error: 9.5397431E14
+******************
+Coefficents array num 3 : [3.67, 1.76, 6.83, 8.93, 6.09, -4.213296, -7.5949044, 6.351754, 2.038931, -8.46, 2.6552815]
+its mean square error: 9.5397431E14
+******************
+Coefficents array num 4 : [3.67, 1.76, 6.83, 8.93, 6.09, -4.213296, -7.5949044, 6.17, 2.038931, -8.46, 2.6552815]
+its mean square error: 9.5280071E14
+******************
+Coefficents array num 5 : [3.67, 1.1770577, 6.83, 8.93, 6.09, 4.16, -5.59, 6.17, -8.82, -8.46, 0.44]
+its mean square error: 7.4474558E14
+******************
+Coefficents array num 6 : [3.67, 1.76, 6.83, 8.93, 6.09, 4.16, -5.59, 6.17, -8.82, -8.46, 0.44]
+its mean square error: 7.4474545E14
+******************
+Coefficents array num 7 : [3.67, 1.76, 6.83, 8.93, 6.09, 4.16, -5.59, 6.17, -8.82, -8.46, 0.44]
+its mean square error: 7.4474545E14
+******************
+Coefficents array num 8 : [3.67, 1.76, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, -8.82, -8.46, 0.44]
+its mean square error: 7.2805031E14
+******************
+Coefficents array num 9 : [3.67, 1.76, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, -8.82, -8.46, 0.44]
+its mean square error: 7.2805031E14
+******************
+Coefficents array num 10 : [3.67, 1.76, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, -8.82, -8.46, 0.44]
+its mean square error: 7.2805031E14
+******************
+****************** Generation 4 ******************
+Coefficents array num 1 : [3.67, 1.76, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, -8.989543, -8.46, 0.44]
+its mean square error: 7.3389455E14
+******************
+Coefficents array num 2 : [3.67, 1.76, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, -8.863382, -8.46, 0.44]
+its mean square error: 7.2954355E14
+******************
+Coefficents array num 3 : [3.67, -2.7734845, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, -8.82, -8.46, 0.44]
+its mean square error: 7.2805091E14
+******************
+Coefficents array num 4 : [3.67, -2.7734845, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, -8.82, -8.46, 0.44]
+its mean square error: 7.2805091E14
+******************
+Coefficents array num 5 : [3.67, -2.7734845, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, -8.82, -8.46, 0.44]
+its mean square error: 7.2805091E14
+******************
+Coefficents array num 6 : [3.67, -2.7734845, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, -8.82, -8.46, 0.44]
+its mean square error: 7.2805091E14
+******************
+Coefficents array num 7 : [3.67, -2.7734845, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, -8.82, -8.46, 0.44]
+its mean square error: 7.2805091E14
+******************
+Coefficents array num 8 : [3.67, -2.7734845, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, -8.82, -8.46, 0.44]
+its mean square error: 7.2805091E14
+******************
+Coefficents array num 9 : [3.67, 1.76, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, -8.82, -8.46, 0.44]
+its mean square error: 7.2805031E14
+******************
+Coefficents array num 10 : [3.67, 1.76, 6.83, 8.93, 6.09, -4.213296, -7.5949044, 6.351754, 2.038931, -8.46, 1.5501133]
+its mean square error: 3.00851596E13
+******************
+****************** Generation 5 ******************
+Coefficents array num 1 : [6.8980427, 6.438195, 6.83, 8.93, 6.09, 4.16, -5.59, -9.427647, -8.82, -8.46, 0.44]
+its mean square error: 8.3820877E14
+******************
+Coefficents array num 2 : [6.8980427, 6.438195, 6.83, 8.93, 6.09, 4.16, -5.59, -9.427647, -8.82, -8.46, 0.44]
+its mean square error: 8.3820877E14
+******************
+Coefficents array num 3 : [6.8980427, 6.438195, 6.83, 8.93, 6.09, 4.16, -5.59, -9.427647, -8.82, -8.46, 0.44]
+its mean square error: 8.3820877E14
+******************
+Coefficents array num 4 : [3.67, -2.7734845, 6.83, 8.93, 6.09, -4.213296, -7.5949044, 6.351754, -8.82, -8.46, 0.44]
+its mean square error: 7.4702057E14
+******************
+Coefficents array num 5 : [3.67, 1.76, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, -8.989543, -8.46, 0.44]
+its mean square error: 7.3389455E14
+******************
+Coefficents array num 6 : [3.67, 1.76, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, -8.863382, -8.46, 0.44]
+its mean square error: 7.2954355E14
+******************
+Coefficents array num 7 : [3.67, -3.3062844, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, -8.82, -8.46, 0.44]
+its mean square error: 7.2805098E14
+******************
+Coefficents array num 8 : [3.67, -2.7734845, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, -8.82, -8.46, 0.44]
+its mean square error: 7.2805091E14
+******************
+Coefficents array num 9 : [3.67, 1.76, 6.83, 8.93, 6.09, 4.16, -5.59, 9.058071, 2.038931, -8.46, 1.5501133]
+its mean square error: 3.36933222E13
+******************
+Coefficents array num 10 : [3.67, 1.76, 6.83, 8.93, 6.09, -4.213296, -7.5949044, 6.351754, 2.038931, -8.46, 1.5501133]
+its mean square error: 3.00851596E13
+******************
